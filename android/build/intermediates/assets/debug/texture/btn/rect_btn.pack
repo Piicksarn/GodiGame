@@ -1,0 +1,19 @@
+
+rect_btn.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+down_btn
+  rotate: false
+  xy: 1, 1
+  size: 480, 240
+  orig: 480, 240
+  offset: 0, 0
+  index: -1
+up_btn
+  rotate: false
+  xy: 483, 1
+  size: 480, 240
+  orig: 480, 240
+  offset: 0, 0
+  index: -1
